@@ -114,7 +114,7 @@ KSAMPLER_NAMES = ["euler", "euler_cfg_pp", "euler_ancestral", "euler_ancestral_c
     <img src="https://github.com/user-attachments/assets/a3e2d798-32b4-454d-aff0-d679dc6d45ea" width="1000" style="margin: 5px;">
 </p>
 
-## 也许打算发论文，让grok指导给我水了一个先,要看原理的自己看吧(
+## 用grok水了一个概览(因为懒得写具体的.jpg,要看原理的自己看吧(
 你也可以看这里 https://deepwiki.com/spawner1145/sd-samplers 这个网站基本讲解清楚了代码的思路
 ---
 
